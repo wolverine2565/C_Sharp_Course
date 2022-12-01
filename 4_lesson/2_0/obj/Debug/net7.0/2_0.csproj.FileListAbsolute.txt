@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/bin/Debug/net7.0/2_0
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/bin/Debug/net7.0/2_0.deps.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/bin/Debug/net7.0/2_0.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/bin/Debug/net7.0/2_0.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/bin/Debug/net7.0/2_0.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/refint/2_0.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/2_0.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/4_lesson/2_0/obj/Debug/net7.0/ref/2_0.dll
