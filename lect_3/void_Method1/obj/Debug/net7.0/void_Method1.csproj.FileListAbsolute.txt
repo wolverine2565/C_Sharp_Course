@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/bin/Debug/net7.0/void_Method1
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/bin/Debug/net7.0/void_Method1.deps.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/bin/Debug/net7.0/void_Method1.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/bin/Debug/net7.0/void_Method1.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/bin/Debug/net7.0/void_Method1.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/refint/void_Method1.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/void_Method1.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/lect_3/void_Method1/obj/Debug/net7.0/ref/void_Method1.dll
