@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/bin/Debug/net7.0/Task_01
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/bin/Debug/net7.0/Task_01.deps.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/bin/Debug/net7.0/Task_01.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/bin/Debug/net7.0/Task_01.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/bin/Debug/net7.0/Task_01.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/refint/Task_01.dll
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.pdb
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/Task_01.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/C_Sharp_Course/6_lesson/homework/Task_01/obj/Debug/net7.0/ref/Task_01.dll
