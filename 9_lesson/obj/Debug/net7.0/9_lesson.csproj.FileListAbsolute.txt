@@ -1,0 +1,15 @@
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/bin/Debug/net7.0/9_lesson
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/bin/Debug/net7.0/9_lesson.deps.json
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/bin/Debug/net7.0/9_lesson.runtimeconfig.json
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/bin/Debug/net7.0/9_lesson.dll
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/bin/Debug/net7.0/9_lesson.pdb
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.csproj.AssemblyReference.cache
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.AssemblyInfoInputs.cache
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.AssemblyInfo.cs
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.dll
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/refint/9_lesson.dll
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.pdb
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/9_lesson.genruntimeconfig.cache
+/Users/nikolaydanyuk/controlwork/C_Sharp_Course/9_lesson/obj/Debug/net7.0/ref/9_lesson.dll
